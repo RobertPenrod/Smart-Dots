@@ -1,6 +1,9 @@
 # Smart-Dots
 Smart Dots is a program that uses a genetic algorithm to solve user drawn mazes.
 
+This project was heavily inspired by this video: 
+https://www.youtube.com/watch?v=BOZfhUcNiqk
+
 It was made using the processing development enviroment.
 See https://processing.org/ for more information.
 
